@@ -1,0 +1,15 @@
+[submodule "task-1-2-xml-json-2"]
+	path = task-1-2-xml-json-2
+	url = https://github.com/ivan-developer-01/xml-json-tasks-21.2
+[submodule "task-3-local-storage-4"]
+	path = task-3-local-storage-4
+	url = https://github.com/ivan-developer-01/local-storage-task-21.4
+[submodule "task-4-promise-5"]
+	path = task-4-promise-5
+	url = https://github.com/ivan-developer-01/promise-task-21.5
+[submodule "task-5-fetch-6"]
+	path = task-5-fetch-6
+	url = https://github.com/ivan-developer-01/fetch-task-21.6
+[submodule "task-6-ajax-7"]
+	path = task-6-ajax-7
+	url = https://github.com/ivan-developer-01/ajax-task-21.7
